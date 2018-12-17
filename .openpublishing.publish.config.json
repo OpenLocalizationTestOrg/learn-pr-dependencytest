@@ -4,19 +4,19 @@
       "docset_name": "javatestdependency",
       "build_source_folder": "javatestdependency",
       "build_output_subfolder": "javatestdependency",
-      "locale": "en-us",
+      "locale": "ru-ru",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
       },
       "build_entry_point": "docs",
-      "template_folder": "_themes.VS.Modern",
+      "template_folder": "_themes",
       "base_path": "java",
-      "site_name": "VS.Modern",
+      "site_name": "Docs",
       "customized_template_paths": [
         "_dependentPackages/memberpage.plugins/content"
       ],
